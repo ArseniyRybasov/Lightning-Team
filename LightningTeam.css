@@ -1,0 +1,36 @@
+body {
+	background-color: #ffffee;
+	margin: 0;
+	padding: 10px;
+  	background-size: cover;
+}
+
+.title {
+	position: relative;
+	display: flex;
+	width: 98.5%;
+  	height: 250px;
+	border: solid orange;
+	background-color: #ffffaa;
+	background-size: cover;
+	justify-content: center;
+  	align-items: center;
+	text-align: center;
+}
+
+.logo {
+	position: absolute;
+	top: 50px;
+	font-size: 52px;
+}
+
+.slogan {
+	position: absolute;
+	top: 150px;
+	font-size: 22px;
+}
+
+li {
+	list-style-type: none;
+	font-size: 22px;
+}
